@@ -1,12 +1,4 @@
-# This project has been moved!!
-
-[Go here to see the latest repo](https://github.com/netlify-templates/next-netlify-starter)!
-
-Deploy the official Netlify version here:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/next-netlify-starter)
-
-## Next + Netlify Starter
+#The Winged Axe
 
 This is a [Next.js](https://nextjs.org/) v12 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://url.netlify.com/SyTBPVamO)!
 
